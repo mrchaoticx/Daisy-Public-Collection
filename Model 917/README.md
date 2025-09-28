@@ -10,7 +10,8 @@ In this specific folder you will find many printable and orderable models for th
 - https://www.jgairguns.biz/917-c-78_186_238/
 - https://youtu.be/1B9iXXq5hyQ?si=PrqEMWh0k8iMEKJr
 - https://youtu.be/LQo2vAjzoJY?si=vbAVZDEfe2gy2zMy
+- https://youtu.be/_EN2nm8WPBM?si=oXUtbPbaZh0aBqeb
 
-## Credit
+## Model Credit
 - https://cults3d.com/en/3d-model/various/daisy-922-pellet-clips
 - https://cults3d.com/en/3d-model/various/daisy-880-forearms
