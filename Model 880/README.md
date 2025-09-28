@@ -15,6 +15,7 @@ In this specific folder you will find many printable and orderable models for th
 - https://youtu.be/1B9iXXq5hyQ?si=PrqEMWh0k8iMEKJr
 - https://youtu.be/LQo2vAjzoJY?si=vbAVZDEfe2gy2zMy
 - https://youtu.be/_EN2nm8WPBM?si=oXUtbPbaZh0aBqeb
+- https://forum.daisymuseum.com/daisy-model-880-dating-and-variation-info_topic8044.html
 
 ## Model Credit
 - https://cults3d.com/en/3d-model/various/daisy-922-pellet-clips
