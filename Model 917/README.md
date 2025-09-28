@@ -6,6 +6,9 @@ Though possibly to save money on engineering, keeping most parts similar through
 
 In this specific folder you will find many printable and orderable models for the 917. This includes many custom models all free to you.
 
+> [!NOTE]
+> Models or videos have namesakes or titles based off where they come from. All videos in a folder, if linked, are compatible or useful to that model.
+
 ## Usefull Links
 - https://www.jgairguns.biz/917-c-78_186_238/
 - https://youtu.be/1B9iXXq5hyQ?si=PrqEMWh0k8iMEKJr
