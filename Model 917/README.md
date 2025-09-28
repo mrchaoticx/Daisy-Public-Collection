@@ -5,3 +5,12 @@ The classic 917 Piston tube can have a modern 880's Piston put into it.
 Though possibly to save money on engineering, keeping most parts similar through the Daisy line allows for a lot of customization and cheap, abundant parts.
 
 In this specific folder you will find many printable and orderable models for the 917. This includes many custom models all free to you.
+
+## Usefull Links
+- https://www.jgairguns.biz/917-c-78_186_238/
+- https://youtu.be/1B9iXXq5hyQ?si=PrqEMWh0k8iMEKJr
+- https://youtu.be/LQo2vAjzoJY?si=vbAVZDEfe2gy2zMy
+
+## Credit
+- https://cults3d.com/en/3d-model/various/daisy-922-pellet-clips
+- https://cults3d.com/en/3d-model/various/daisy-880-forearms
