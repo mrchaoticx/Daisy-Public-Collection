@@ -1,1 +1,3 @@
-Daisy 880 (After 95) -> Daisy 917
+# Daisy 880 -> Daisy 917
+New Style Piston -> 917 Classic
+Forearms 880 <-> 917
