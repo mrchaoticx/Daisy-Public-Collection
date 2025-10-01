@@ -4,7 +4,7 @@ The 917 was the precursor to the 880 and remains interchangeable with many moder
 The classic 917 Piston tube can have a modern 880's Piston put into it. 
 Though possibly to save money on engineering, keeping most parts similar through the Daisy line allows for a lot of customization and cheap, abundant parts.
 
-In this specific folder you will find many printable and orderable models for the 917. This includes many custom models all free to you.
+In this specific folder you will find many printable and orderable models for the 917&&880.
 
 > [!NOTE]
 > Models or videos have namesakes or titles based off where they come from. All videos in a folder, if linked, are compatible or useful to that model.
