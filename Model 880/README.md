@@ -20,3 +20,4 @@ In this specific folder you will find many printable and orderable models for th
 ## Model Credit
 - https://cults3d.com/en/3d-model/various/daisy-922-pellet-clips
 - https://cults3d.com/en/3d-model/various/daisy-880-forearms
+- https://www.thingiverse.com/thing:6015571
