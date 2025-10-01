@@ -4,7 +4,7 @@ Marketed off the 917's "5 Shot Repeater" Campaign. The 880 had higher accuracy r
 The 880 used several parts from the 917 and other models (future tense..). The 880's (After 1995) piston can go into a 917's piston tube without problem.
 Though possibly to save money on engineering, keeping most parts similar through the Daisy line allows for a lot of customization and cheap, abundant parts.
 
-In this specific folder you will find many printable and orderable models for the 917&&880. .
+In this specific folder you will find many printable and orderable models for the 917&&880.
 
 > [!NOTE]
 > Models or videos have namesakes or titles based off where they come from. All videos in a folder, if linked, are compatible or useful to that model.
